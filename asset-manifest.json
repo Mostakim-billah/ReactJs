@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ReactJs/static/css/main.3a34f8be.chunk.css",
+    "main.js": "/ReactJs/static/js/main.dc339059.chunk.js",
+    "main.js.map": "/ReactJs/static/js/main.dc339059.chunk.js.map",
+    "runtime-main.js": "/ReactJs/static/js/runtime-main.cca5224e.js",
+    "runtime-main.js.map": "/ReactJs/static/js/runtime-main.cca5224e.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/ReactJs/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.d1848c4e.chunk.js": "/ReactJs/static/js/2.d1848c4e.chunk.js",
+    "static/js/2.d1848c4e.chunk.js.map": "/ReactJs/static/js/2.d1848c4e.chunk.js.map",
+    "index.html": "/ReactJs/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/ReactJs/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.3a34f8be.chunk.css.map": "/ReactJs/static/css/main.3a34f8be.chunk.css.map",
+    "static/js/2.d1848c4e.chunk.js.LICENSE.txt": "/ReactJs/static/js/2.d1848c4e.chunk.js.LICENSE.txt",
+    "static/media/billah.e0263028.jpg": "/ReactJs/static/media/billah.e0263028.jpg",
+    "static/media/edu2.60a1f2d3.jpg": "/ReactJs/static/media/edu2.60a1f2d3.jpg",
+    "static/media/edu3.cba7c299.jpg": "/ReactJs/static/media/edu3.cba7c299.jpg",
+    "static/media/work2.6640871d.jpg": "/ReactJs/static/media/work2.6640871d.jpg",
+    "static/media/work4.93184b04.jpg": "/ReactJs/static/media/work4.93184b04.jpg",
+    "static/media/work6.07ea548d.jpg": "/ReactJs/static/media/work6.07ea548d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cca5224e.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.d1848c4e.chunk.js",
+    "static/css/main.3a34f8be.chunk.css",
+    "static/js/main.dc339059.chunk.js"
+  ]
+}
